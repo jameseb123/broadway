@@ -12,3 +12,9 @@ h1 {
   color: white;
   background-image: url("../images/the-flatiron-building.png")
 }
+.copy {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
